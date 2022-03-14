@@ -1,4 +1,4 @@
-#  Digital Twin Mobility Profiling: A Spatio-Temporal Graph Learning Approach
+#  A Spatio-Temporal Graph Learning Approach
 This is the implementation of GWN based on PyTorch. 
 
 ## structure of the code:  
